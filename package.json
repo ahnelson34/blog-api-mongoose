@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "chai": "^4.2.0",
+    "morgan": "^1.9.1",
     "node": "^12.2.0"
   },
   "devDependencies": {
